@@ -1,6 +1,6 @@
 ## Bom dia 🐕
 
-Eu sou o Mello (he/they) 🏳️‍⚧️
+Eu sou o Mello (any pronouns) 🏳️‍⚧️
 
 - estou estudando programação na Alura
 - estou me desenvolvendo na linguagem JavaScript
